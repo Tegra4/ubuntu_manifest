@@ -70,6 +70,7 @@
   <project path="external/libsepol" name="aosp/platform/external/libsepol" groups="pdk" />
   <project path="external/libunwind" name="aosp/platform/external/libunwind" groups="pdk" />
   <project path="external/libvpx" name="aosp/platform/external/libvpx" groups="pdk" />
+  <project path="external/libxml2" name="aosp/platform/external/libxml2" groups="pdk-cw-fs" />
   <project path="external/mdnsresponder" name="aosp/platform/external/mdnsresponder" groups="pdk" />
   <project path="external/mksh" name="aosp/platform/external/mksh" groups="pdk" />
   <project path="external/openssl" name="aosp/platform/external/openssl" groups="pdk" revision="refs/heads/personal/w-ondra/phablet-5.1.1_r5" />
