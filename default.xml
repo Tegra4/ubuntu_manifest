@@ -125,7 +125,7 @@
   <project path="hardware/samsung_slsi/exynos5" name="aosp/platform/hardware/samsung_slsi/exynos5" groups="exynos5" />
   <project path="hardware/ti/omap3" name="aosp/platform/hardware/ti/omap3" groups="omap3" />
   <project path="hardware/ti/omap4-aah" name="aosp/platform/hardware/ti/omap4-aah" groups="omap4-aah" />
-  <project path="hardware/ti/omap4xxx" name="aosp/platform/hardware/ti/omap4xxx" groups="omap4" revision="refs/heads/personal/w-ondra/phablet-5.1.1_r5" />
+  <!-- project path="hardware/ti/omap4xxx" name="aosp/platform/hardware/ti/omap4xxx" groups="omap4" revision="refs/heads/personal/w-ondra/phablet-5.1.1_r5" / -->
   <project path="libnativehelper" name="aosp/platform/libnativehelper" groups="pdk" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="aosp/platform/prebuilts/clang/darwin-x86/3.1" groups="pdk,darwin" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="aosp/platform/prebuilts/clang/darwin-x86/3.2" groups="pdk,darwin" />
